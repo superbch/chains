@@ -2,9 +2,10 @@
   "name": "Smart Bitcoin Cash",
   "chain": "smartBCH",
   "rpc": [
-    "https://smartbch.greyh.at",
-    "https://rpc-mainnet.smartbch.org",
     "https://smartbch.fountainhead.cash/mainnet",
+    "https://global.uat.cash",
+    "https://smartbch.greyh.at",
+    "https://smart-bch.btc.com",
     "https://smartbch.devops.cash/mainnet"
   ],
   "faucets": [],
